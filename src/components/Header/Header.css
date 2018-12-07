@@ -1,0 +1,8 @@
+.Header {
+}
+
+.Header__title {
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+}
