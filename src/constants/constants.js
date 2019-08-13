@@ -2,9 +2,12 @@ const CONSTANTS = {
     HEADER_TITLE: 'Welcome',
     HEADER_IMAGE: 'test.jpg',
 
+
+    // TODO have path name as a constant?
     NAVIGATION_ITEMS: [
-        { name: '1', path: '1' },
-        { name: '2', path: '2' },
+        { name: 'Home', path: '/' },
+        { name: 'About', path: '/about' },
+        { name: 'Store', path: '/store' },
     ],
 };
 
